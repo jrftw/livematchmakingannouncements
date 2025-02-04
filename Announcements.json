@@ -1,1 +1,13 @@
-
+// FILE: Announcements.json
+{
+  "announcements": [
+    {
+      "title": "Beta Launch",
+      "date": "2025-01-29",
+      "time": "08:30:00",
+      "content": "We have launched the beta!",
+      "images": [],
+      "links": []
+    }
+  ]
+}
